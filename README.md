@@ -1,2 +1,2 @@
 # HTML-Parser
-Simple HTML Parser, using Slack, Enums & Interface
+Simple HTML Parser, using Stack, Enums & Interface
